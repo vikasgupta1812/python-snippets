@@ -81,6 +81,15 @@ docker stats udacity_deep_learning
 CONTAINER               CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O
 udacity_deep_learning   0.01%               1.402 GB / 12.88 GB   10.88%              256.3 MB / 657.9 kB   733.4 MB / 237.6 kB
 ```
+## Refer to Jupyter cell's input/output
+
+```py
+_i5 # input[5]
+In[5] # same
+_5 # output[5]
+Out[5] # same
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTc3ODY0MSwtMTk2ODEyMDc2Ml19
+eyJoaXN0b3J5IjpbNjEwMTk5MzM1LDE2Mzk3Nzg2NDEsLTE5Nj
+gxMjA3NjJdfQ==
 -->
